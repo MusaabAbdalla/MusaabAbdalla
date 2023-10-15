@@ -5,7 +5,7 @@
 
 
 
-[![Twitter: MusaabAbdalla](https://img.shields.io/twitter/follow/MusaabAbdalla?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: MusaabAbdalla](https://img.shields.io/twitter/follow/MusaabAbdalla?style=social)](https://twitter.com/jamboosan)
 [![Linkedin: MusaabAbdalla](https://img.shields.io/badge/-MusaabAbdalla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MusaabAbdalla/)](https://www.linkedin.com/in/MusaabAbdalla/)
 [![GitHub MusaabAbdalla](https://img.shields.io/github/followers/MusaabAbdalla?label=follow&style=social)](https://github.com/MusaabAbdalla)
 
